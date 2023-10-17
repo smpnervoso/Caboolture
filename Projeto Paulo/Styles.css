@@ -1,0 +1,159 @@
+
+#head {
+    padding: 40px;
+    font: bold;
+
+}
+#navegar {
+  margin-bottom: 10px;
+  margin-left: 400px;
+}
+.sobre {
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    
+}
+#about {
+    font-size: 50px;
+    margin-top: 120px;
+    margin-bottom: 10px;
+}
+#leaders {
+    font-size: 90px;
+    margin-top: 1px;
+    margin-bottom: 300px;
+    font-family: 'Inter bold 700', sans-serif;
+}
+#david {
+    position: absolute;
+    margin-left: 380px;
+    margin-right: 380px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nome {
+    font-family: 'Inter bold 700', sans-serif;
+    text-align: center;
+    font-size: 50px;
+    padding: 190px;
+}
+#nomedele {
+    font-family: 'Inter bold 800', sans-serif;
+    font-size: 40px;
+    margin-bottom: 1px;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+#funcaodele {
+    font-size: 28px;
+    margin-top: 1px;
+    margin-left: 15px;
+}
+#sobreele {
+    font-family: 'Inter', sans-serif;
+    margin-left: 1px;
+    margin-right: 40px;
+    width: 600px;
+    font-size: 30px;
+}
+#phone {
+    position: absolute;
+    padding-left: 380px;
+    padding-right: 400px;
+    margin-top: -180px;
+}
+#sms {
+    position: absolute;
+    padding-left: 550px;
+    padding-right: 400px;
+    margin-top: -180px;
+}
+#alternativo {
+    font-size: 20px;
+}
+.espacovazio{
+    margin: 300px;
+}
+.rodape {
+    margin-left: 70px;
+    margin-bottom: 50px;
+}
+#services {
+    margin-top: 55px;
+    margin-left: 100px;
+    margin-bottom: -20px;
+}
+#servicos {
+    font-family: 'Inter', sans-serif;
+    margin-top: 60px;
+    margin-left: 40px;
+    margin-bottom: -20px;
+    font-size: 40px;
+}
+.vazio {
+    margin: 200px;
+}
+#sobreeles {
+    font-family: 'Inter', sans-serif;
+    margin-left: 60px;
+    margin-top: 50px;
+}
+#belive {
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 60px;
+}
+#lideres {
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+#localizacao {
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+}
+#contato {
+    font-family: 'Inter', sans-serif;
+    margin-left: 65px;
+    margin-top: 40px;
+    margin-bottom: 120px;
+}
+#social {
+    font-family: 'Inter', sans-serif;
+    margin-top: 30px;
+    margin-left: 93px;
+}
+#facebook {
+    font-family: 'Inter', sans-serif;
+    margin-top: 60px;
+    margin-left: 93px;
+}
+#youtube {
+    font-family: 'Inter', sans-serif;
+    margin-top: 40px;
+    margin-left: 90px;
+    margin-bottom: 150px;
+}
+#localizar {
+    font-family: 'Inter', sans-serif;
+    margin-left: 93px; 
+}
+#point {
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 90px;
+}
+#local {
+    font-family: 'Inter', sans-serif;
+    font-size: 40px;
+    padding: 20px;
+    padding-left: 155px;
+}
+.outrovazio {
+    margin: 200px;
+}
+#root {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
+}
